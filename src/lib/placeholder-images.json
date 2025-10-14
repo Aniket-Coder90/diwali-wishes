@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "diya-arrangement",
+      "description": "A beautiful arrangement of lit clay diyas.",
+      "imageUrl": "https://picsum.photos/seed/diya1/1200/800",
+      "imageHint": "diya arrangement"
+    },
+    {
+      "id": "colorful-rangoli",
+      "description": "A vibrant and intricate rangoli design on the floor.",
+      "imageUrl": "https://picsum.photos/seed/rangoli2/1200/800",
+      "imageHint": "colorful rangoli"
+    },
+    {
+      "id": "floating-lanterns",
+      "description": "Glowing lanterns floating into the night sky.",
+      "imageUrl": "https://picsum.photos/seed/lanterns3/1200/800",
+      "imageHint": "floating lanterns"
+    },
+    {
+      "id": "diwali-sweets",
+      "description": "A festive platter of assorted Indian sweets.",
+      "imageUrl": "https://picsum.photos/seed/sweets4/1200/800",
+      "imageHint": "diwali sweets"
+    }
+  ]
+}
